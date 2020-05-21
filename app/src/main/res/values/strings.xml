@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FindCard</string>
+    <string name="ok">Try another round</string>
+    <string name="congratulation">Congratulations!</string>
+    <string name="win_message">You win this game by %s steps!</string>
+    <string name="reset_game">Restart</string>
+    <string name="step">STEPS: %s</string>
+</resources>
